@@ -2,7 +2,7 @@
 
 A simple, clean, and powerful **Machine Learning Web App** built using **Streamlit** — now deployed and live!
 
-👉 **Live App:** [https://diabetes-prediction-app-dows8kblfwusi9gtfcwwji.streamlit.app/](https://diabetes-prediction-app-dows8kblfwusi9gtfcwwji.streamlit.app/)
+👉 **Live App:** https://diabetes-prediction-app-ksutmhh8zn8kq3slr7ttgk.streamlit.app/
 
 ---
 
